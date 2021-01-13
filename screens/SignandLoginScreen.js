@@ -15,7 +15,7 @@ export default class SignInandLoginScreen extends React.Component {
         return(
             <View style={styles.container}>
                 <View style={styles.profileContainer}>
-                    <Text style={styles.titleText}>Book Santa</Text>
+                    <Text style={styles.titleText}>Barter</Text>
                 </View>
                 <View style={styles.buttonContainer}>
                     <TextInput
